@@ -1,0 +1,21 @@
+{
+  "name": "kai",
+  "version": "1.0.0",
+  "description": "kisaan ai",
+  "type":"module",
+  "keywords": [
+    "ai"
+  ],
+  "license": "ISC",
+  "author": "Prince Chaurasia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  }
+}
